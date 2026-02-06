@@ -70,7 +70,7 @@ export default function App() {
         <div className="accepted">
           <img src={yesImg} alt="yes" className="valentine-img" />
           <h1>YAYYY 😭💖</h1>
-          <p>You are my Valentine now Alipott 😚😚</p>
+          <p>I know you're going to say yes Alipott 😜😜</p>
         </div>
       )}
     </div>
